@@ -102,8 +102,6 @@ representing a typical low-cost embedded GNSS terminal.
 
 Typical output includes
 
-- Loading station coordinates
-- Loading DCT dictionary
 - Execution time of Scheme A
 - Execution time of Scheme B
 - Execution time of Scheme C
