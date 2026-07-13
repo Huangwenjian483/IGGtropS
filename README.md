@@ -35,21 +35,22 @@ To enable efficient deployment on resource-constrained platforms (e.g., embedded
 - **Results**:  
   - Sparsity (non-zero ratio): **33.39%**  
   - Compressed file size: **1.90 MB**  
-  - Compression ratio: **36.51%**
+  - Compression ratio: **63.49%**
 
 ## 📖 Citation
 
 If you use this model or code, please cite the following works:
 
-- Li W, Yuan YB, Ou JK, He YJ (2018). IGGtrop_SH and IGGtrop_rH: Two improved empirical tropospheric delay models based on vertical reduction functions. IEEE Transactions on Geoscience and Remote Sensing. PP. 1-13. 10.1109/TGRS.2018.2812850.
-- Li W, Yuan YB, Ou JK, Li H, Li ZS (2012). A new global zenith tropospheric delay model IGGtrop for GNSS applications. Chin Sci Bull, 57(17): 2132–2139
+- Huang, W., Ou, J., Huo, X., Li W., Yuan, Y. & Xiao, G. (2026). A New Sparse Representation Method for Tropospheric Grid Models. Satellite Navigation,
+- Li, W., Yuan, Y., Ou, J., & He, Y. (2018). IGGtrop_SH and IGGtrop_rH: Two Improved Empirical Tropospheric Delay Models Based on Vertical Reduction Functions. IEEE Transactions on Geoscience and Remote Sensing, 56(9), 5276-5288. https://doi.org/10.1109/TGRS.2018.2812850
+- Li, W., Yuan, Y., Ou, J., Li, H., & Li, Z. (2012). A new global zenith tropospheric delay model IGGtrop for GNSS applications. Chinese Science Bulletin, 57(17), 2132-2139. https://doi.org/10.1007/s11434-012-5010-9
 
 ## 📬 Contact
 
 For questions or collaboration, please contact:
 
 **Huang Wenjian**  
-📧 huangwenjian@apm.ac.cn
+📧 huangwenjian@outlook.com
 
 **Li Wei**  
 📧 liwei@apm.ac.cn
