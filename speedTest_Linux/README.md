@@ -107,6 +107,6 @@ Typical output includes
 - Execution time of Scheme C
 
 ## Citation
-Huang, W., Ou, J., Huo, X., Li W, Yuan, Y., Xiao, G. (2026). A New Sparse Representation Method for Tropospheric Grid Models. Satellite Navigation,
+Huang, W., Ou, J., Huo, X., Li W., Yuan, Y. & Xiao, G. (2026). A New Sparse Representation Method for Tropospheric Grid Models. Satellite Navigation, 7(1), 22. https://doi.org/10.1186/s43020-026-00210-2
 
 If you use this code in your research, please cite the corresponding publication describing the IGGtropS client-side algorithm.
