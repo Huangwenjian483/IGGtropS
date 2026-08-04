@@ -42,7 +42,7 @@ To enable efficient deployment on resource-constrained platforms (e.g., embedded
 
 If you use this model or code, please cite the following works:
 
-- Huang, W., Ou, J., Huo, X., Li W., Yuan, Y. & Xiao, G. (2026). A New Sparse Representation Method for Tropospheric Grid Models. Satellite Navigation,
+- Huang, W., Ou, J., Huo, X., Li W., Yuan, Y. & Xiao, G. (2026). A New Sparse Representation Method for Tropospheric Grid Models. Satellite Navigation, 7(1), 22. https://doi.org/10.1186/s43020-026-00210-2 
 - Li, W., Yuan, Y., Ou, J., & He, Y. (2018). IGGtrop_SH and IGGtrop_rH: Two Improved Empirical Tropospheric Delay Models Based on Vertical Reduction Functions. IEEE Transactions on Geoscience and Remote Sensing, 56(9), 5276-5288. https://doi.org/10.1109/TGRS.2018.2812850
 - Li, W., Yuan, Y., Ou, J., Li, H., & Li, Z. (2012). A new global zenith tropospheric delay model IGGtrop for GNSS applications. Chinese Science Bulletin, 57(17), 2132-2139. https://doi.org/10.1007/s11434-012-5010-9
 
